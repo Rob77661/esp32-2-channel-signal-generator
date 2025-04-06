@@ -62,8 +62,7 @@ Select your ESP32 board under Tools > Board.
 Upload the sketch to your ESP32.
 
 ## Contributing
-If you find a bug feel free to open a issue.  
-Pull requests are welcome.
+If you find a bug it's your own mistake. King Mo writes perfect code
 
 ## Customization
 Sample Rate: Adjust SAMPLE_RATE (default 40000.0f) in the code if you need a different sampling frequency.  
